@@ -1,0 +1,6 @@
+flask
+pandas
+gunicorn
+numpy
+scikit-learn
+matplotlib.pyplot
